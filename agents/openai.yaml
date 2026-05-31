@@ -1,0 +1,4 @@
+interface:
+  display_name: "Serena"
+  short_description: "Use Serena MCP for symbol-level code intelligence."
+  default_prompt: "Use Serena to inspect this codebase and make the requested change."
