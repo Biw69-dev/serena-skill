@@ -1,6 +1,6 @@
 ---
 name: serena
-description: Use Serena MCP for IDE-grade, symbol-level code intelligence when a coding task depends on repository structure: exploring an unfamiliar codebase, finding definitions or references, tracing call paths, making symbol-aware edits, checking diagnostics, or answering where a function/class is used or defined.
+description: "Use Serena MCP for IDE-grade, symbol-level code intelligence when a coding task depends on repository structure: exploring an unfamiliar codebase, finding definitions or references, tracing call paths, making symbol-aware edits, checking diagnostics, or answering where a function/class is used or defined."
 ---
 
 # Serena
